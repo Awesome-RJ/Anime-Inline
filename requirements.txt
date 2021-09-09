@@ -1,0 +1,16 @@
+wget
+Pillow
+img2pdf
+aiohttp
+jikanpy
+tgcrypto
+coffeehouse
+pyrogram
+pymoe
+ffmpeg
+tgcrypto
+sqlalchemy==1.3.20
+psycopg2
+psycopg2-binary
+telegraph==1.4.1
+requests==2.24.0
