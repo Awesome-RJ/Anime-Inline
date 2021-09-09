@@ -1,0 +1,13 @@
+{
+    "name": "Anime Inline",
+    "description": "Anime Inline Free Bot.",
+    "repository": "https://github.com/Awesome-RJ/Anime-Inline",
+
+    "addons": [
+        {
+           "options": {
+              "version": "12"
+           },
+           "plan": "heroku-postgresql"
+        }
+     ],
